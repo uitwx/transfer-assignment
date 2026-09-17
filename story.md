@@ -11,4 +11,4 @@ After a quick rollback, the payment system worked again, the printer stopped pre
 The following Monday, Tom arrived at work wearing a T-shirt that said GIT COMMIT on the front and GIT REGRET on the back. His manager stared at it for several seconds before saying, “Please tell me you didn't deploy anything this weekend.” Tom smiled. “Nope.” Everyone relaxed. Then he added, “I did, however, create a new branch.” The entire office immediately reached for their coffee.
 
 ## Disclaimer:
-This short story was written by ChatGPT
+This short story was written by an generated with an AI whose name the spellchecker does not allow.
